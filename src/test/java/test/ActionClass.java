@@ -25,6 +25,7 @@ public class ActionClass {
 	   int width=mainSlider.getSize().width/2;
 	   
 	   new Actions(driver).dragAndDropBy(sliderIcon,width , 0).perform();
+	   System.out.println("Preeti");
 	}
 
 }

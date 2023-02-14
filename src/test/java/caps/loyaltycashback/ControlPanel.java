@@ -114,6 +114,8 @@ public class ControlPanel extends CouponCreation {
 		a.moveToElement(ele).click().perform();
 		Thread.sleep(3000);
 		Runtime.getRuntime().exec("C:\\Users\\bs0452\\Downloads\\FileUpload.exe");
+		System.out.println("Preeti Jaiswal");
+		
 	}
 	
 }
