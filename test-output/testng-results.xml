@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-17T12:16:06 IST" name="Default suite" finished-at="2023-02-17T12:16:13 IST" duration-ms="6889">
+    <groups>
+    </groups>
+    <test started-at="2023-02-17T12:16:06 IST" name="Default test" finished-at="2023-02-17T12:16:13 IST" duration-ms="6889">
+      <class name="testng.TestCasePractice">
+        <test-method is-config="true" signature="createDBConn()[pri:0, instance:testng.TestCasePractice@202b0582]" started-at="2023-02-17T12:16:06 IST" name="createDBConn" finished-at="2023-02-17T12:16:06 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDBConn -->
+        <test-method is-config="true" signature="browserOpen()[pri:0, instance:testng.TestCasePractice@202b0582]" started-at="2023-02-17T12:16:06 IST" name="browserOpen" finished-at="2023-02-17T12:16:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserOpen -->
+        <test-method signature="doLogin()[pri:0, instance:testng.TestCasePractice@202b0582]" started-at="2023-02-17T12:16:06 IST" name="doLogin" finished-at="2023-02-17T12:16:06 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:testng.TestCasePractice@202b0582]" started-at="2023-02-17T12:16:06 IST" name="browserClose" finished-at="2023-02-17T12:16:06 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method is-config="true" signature="browserOpen()[pri:0, instance:testng.TestCasePractice@202b0582]" started-at="2023-02-17T12:16:06 IST" name="browserOpen" finished-at="2023-02-17T12:16:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserOpen -->
+        <test-method signature="doLogout()[pri:0, instance:testng.TestCasePractice@202b0582]" started-at="2023-02-17T12:16:06 IST" name="doLogout" finished-at="2023-02-17T12:16:06 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogout -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:testng.TestCasePractice@202b0582]" started-at="2023-02-17T12:16:06 IST" name="browserClose" finished-at="2023-02-17T12:16:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method is-config="true" signature="browserOpen()[pri:0, instance:testng.TestCasePractice@202b0582]" started-at="2023-02-17T12:16:06 IST" name="browserOpen" finished-at="2023-02-17T12:16:06 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserOpen -->
+        <test-method signature="validateTitle()[pri:0, instance:testng.TestCasePractice@202b0582]" started-at="2023-02-17T12:16:06 IST" name="validateTitle" finished-at="2023-02-17T12:16:13 IST" duration-ms="6795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitle -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:testng.TestCasePractice@202b0582]" started-at="2023-02-17T12:16:13 IST" name="browserClose" finished-at="2023-02-17T12:16:13 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method is-config="true" signature="closeDBConn()[pri:0, instance:testng.TestCasePractice@202b0582]" started-at="2023-02-17T12:16:13 IST" name="closeDBConn" finished-at="2023-02-17T12:16:13 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDBConn -->
+      </class> <!-- testng.TestCasePractice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
